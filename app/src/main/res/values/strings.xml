@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculatorKotlin</string>
+    <string name="main_button_sum">Soma</string>
+    <string name="main_button_substract">Subtração</string>
+    <string name="main_button_multiplication">Multiplicação</string>
+    <string name="main_button_division">Divisão</string>
+</resources>
